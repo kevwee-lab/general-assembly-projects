@@ -50,11 +50,11 @@ The workflow for the data analysis was as follows:
 3) **SAT participation rate has seen some moderate success**: More states achieved 90% to 100% participation rates for SAT in 2018, from 7 in 2017 to 10 in 2018. More can be done to increase the participation rate in other states.
 
 
-### Contents:
-- [2017 Data Import & Cleaning](#Data-Import-and-Cleaning)
-- [2018 Data Import and Cleaning](#2018-Data-Import-and-Cleaning)
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [Data Visualization](#Visualize-the-data)
-- [Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
-- [Outside Research](#Outside-Research)
-- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+## Conclusions and Recommendations
+Based on the above takeaways, we recommend that the College Board consider the following strategies:
+
+1) **Target states that have yet to mandate any tests, and are more receptive towards SAT**: Based on this [article](https://magoosh.com/hs/sat/states-that-require-the-act-or-sat/), states on the map that are greyed out are currently not legally required to take the SAT or ACT. The College Board could consider working with the state department of education to administer and mandate the SAT in states that show a more favourable reception to the SAT. This way, we could provide schools with ample lead time to change their systems (unlike the case of West Virginia and Illinois where the school systems were more aligned to ACT). This could also help to improve SAT scores. <br>
+The states that fit the criteria are Washington, California, Alaska, New York, Pennsylvania, Georgia and Texas.
+2) **Provide SAT School Day for schools in the abovementioned states**: The SAT costs [64.50 to take in 2018 with the optional essay component, and 47.50 without.](https://www.edmit.me/blog/how-much-does-it-cost-to-take-the-sat-how-much-does-it-cost-to-take-the-act#:~:text=SAT%20testing%20fees%20are%20set,optional%20essay%20component%20is%20%2464.50.) This could be a hefty sum for low income families. Therefore, introducing SAT School Days to offer the SAT at no cost to students could also increase the SAT participation rate.
+
+3) **Help students become more aware of free resources, e.g. Khan Academy**: An increase in awareness of available tools and resources could help students better prepare for the SAT, and thus improve SAT scores and increase take up for SAT
