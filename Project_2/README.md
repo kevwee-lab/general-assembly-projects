@@ -48,7 +48,7 @@ Homeowners could consider doing some remodelling to increase the value of their 
 
 These neighborhoods in Ames seem like a good investment: 
 1) **Stone Brook** : A few minutes drive from the [Iowa State University campus](https://www.stonebrooke.org/).  <br>
-2) **Northridge Heights** : Located to thriving [Gilbert school district](https://www.hunzikerdevelopment.com/active-developments/northridge-heights/). <br> 
+2) **Northridge Heights** : Located next to thriving [Gilbert school district](https://www.hunzikerdevelopment.com/active-developments/northridge-heights/). <br> 
 3) **Green Hills**: Retirement community for [Iowa State University alumni](https://greenhillsrc.com/about-us/).
 
 We will not be able to generalise this model to other cities as the data seems to be Ames specific. To be able to generalise our model we would need more generic features to be included in the dataset such as distance to amenities, e.g. schools, malls etc. This seems to have some correlation to neighborhood as we observe from the top 3 neighborhoods for property investment in Ames.
