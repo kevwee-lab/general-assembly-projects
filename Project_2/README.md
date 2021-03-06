@@ -36,12 +36,20 @@ For the set of features that were selected to build the Linear, Lasso and Ridge 
 Our final RMSE was around 30895 (scored by Kaggle) against our own training prediction RMSE of around 25880. This seems to imply that our model generalises reasonably well on unseen data. <br>
 
 ### Conclusion and recommendations 
-We see that a few features have a huge influence in the sale price of a property: <br>
-1) **Neighborhood**: The neighborhood the property is located in. <br> <br>
-2) **Quality**: The overall finishing and material of the house. <br><br> 
-3) **Square Feet**: The size of the property. <br> <br>
-4) **Materials e.g. Foundation, Roof** : The materials used to construct the property <br> <br>
+In our process of developing our production model for Ames property sale price predictions, we see that a few features have a huge influence in the sale price of a property: <br>
+1) **Neighborhood**: The neighborhood the property is located in. <br> 
+2) **Quality**: The overall finishing and material of the house. <br>
+3) **Square Feet**: The size of the property. <br> 
+4) **Materials e.g. Foundation, Roof** : The materials used to construct the property <br> 
 
-Surprisingly, the age of the property did not influence the sale price as much as we initially assumed. It was zeroed out by lasso.
+Surprisingly, the age of the property did not influence the sale price as much as we initially assumed. Maintenance and remodelling of homes seemed to matter more, and could [add years to the useful life of a home.](https://www.adn.com/business-economy/2018/06/21/the-age-of-your-house-isnt-just-based-on-the-year-it-was-built-heres-why-thats-important-when-youre-selling-your-home/) <br>
 
-To ensure that future homeowners purchase property that is value for money, we would recommend them to consider these 4 factors before making a purchase. 
+Homeowners could consider doing some remodelling to increase the value of their property and maintain their homes. <br>
+
+These neighborhoods in Ames seem like a good investment: 
+1) **Stone Brook** : A few minutes drive from the [Iowa State University campus](https://www.stonebrooke.org/).  <br>
+2) **Northridge Heights** : Located to thriving [Gilbert school district](https://www.hunzikerdevelopment.com/active-developments/northridge-heights/). <br> 
+3) **Green Hills**: Retirement community for [Iowa State University alumni](https://greenhillsrc.com/about-us/).
+
+We will not be able to generalise this model to other cities as the data seems to be Ames specific. To be able to generalise our model we would need more generic features to be included in the dataset such as distance to amenities, e.g. schools, malls etc. This seems to have some correlation to neighborhood as we observe from the top 3 neighborhoods for property investment in Ames.
+
