@@ -33,7 +33,7 @@ To build the model, we did the following steps: <br>
 
 For the set of features that were selected to build the Linear, Lasso and Ridge regression models, we found that the Ridge regression model performed the best, achieving low RMSE and high R2 scores consistently for both train and holdout test sets. We therefore selected Ridge regression as the final production model for our submission to Kaggle. 
 
-Our final RMSE was around 30895 (scored by Kaggle) against our own training RMSE of around 27343. This seems to imply that our model generalises reasonably well on unseen data. <br>
+Our final RMSE was around 30895 (scored by Kaggle) against our own training RMSE of around 25880. This seems to imply that our model generalises reasonably well on unseen data. <br>
 
 ### Conclusion and recommendations 
 In our process of developing our production model for Ames property sale price predictions, we see that a few features have a huge influence in the sale price of a property: <br>
